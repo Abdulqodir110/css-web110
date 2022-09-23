@@ -96,13 +96,13 @@ color: coral;
     padding: 30px 0;
 }
 
-#courses {
+.box {
     width: 33.3%;
     float: left;
     text-align: center;
     font-family: sans-serif;
 }
-#box.img {
+#courses img {
     max-width: 100%;
     width: 60px;
 }
